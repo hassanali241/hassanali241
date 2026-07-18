@@ -7,11 +7,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Education:** Completed 4th semester in Computer Science.
-- 🌱 **Focus:** Strong foundation in programming, databases, and core CS subjects.
-- 💡 **Experience:** Hands-on experience with Java projects, data analysis, and automation workflows.
-- 🚀 **Goals:** Currently exploring modern web technologies, Python, and automation tools.
-
+- 🤖 **AI Agents & Automation** — n8n workflows that replace hours of manual work with autonomous pipelines (research agents, content automation, monitoring systems)
+- 🔍 **RAG & LLM Systems** — Corrective RAG pipelines, fact-checking engines, and retrieval architectures using LangGraph, Supabase/pgvector, and Groq
+- 🌐 **Full-Stack Apps** — MERN stack systems with real auth, role-based access, and clean API design
+- 📊 **Data Science** — ML pipelines and analysis, from raw data to deployed dashboards
+  
 ---
 
 ## 🛠️ Tech Stack
